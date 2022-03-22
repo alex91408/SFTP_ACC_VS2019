@@ -1,0 +1,19 @@
+﻿  SFTP_ACC.cpp
+D:\遠銀升級案\20211222_程式弱掃_交付遠銀\SFTP_ACC\SFTP_ACC_VS2019\SFTP_ACC.cpp(163,17): warning C4477: 'sscanf_s' : 格式字串 '%s' 需要 'unsigned int' 類型的引數，但 variadic 引數 2 的類型為 'size_t'
+D:\遠銀升級案\20211222_程式弱掃_交付遠銀\SFTP_ACC\SFTP_ACC_VS2019\SFTP_ACC.cpp(163,17): message : 此引數可用為緩衝區大小
+D:\遠銀升級案\20211222_程式弱掃_交付遠銀\SFTP_ACC\SFTP_ACC_VS2019\SFTP_ACC.cpp(163,17): warning C4477: 'sscanf_s' : 格式字串 '%s' 需要 'unsigned int' 類型的引數，但 variadic 引數 4 的類型為 'size_t'
+D:\遠銀升級案\20211222_程式弱掃_交付遠銀\SFTP_ACC\SFTP_ACC_VS2019\SFTP_ACC.cpp(163,17): message : 此引數可用為緩衝區大小
+D:\遠銀升級案\20211222_程式弱掃_交付遠銀\SFTP_ACC\SFTP_ACC_VS2019\SFTP_ACC.cpp(171,18): warning C4477: 'sscanf_s' : 格式字串 '%s' 需要 'unsigned int' 類型的引數，但 variadic 引數 2 的類型為 'size_t'
+D:\遠銀升級案\20211222_程式弱掃_交付遠銀\SFTP_ACC\SFTP_ACC_VS2019\SFTP_ACC.cpp(171,18): message : 此引數可用為緩衝區大小
+D:\遠銀升級案\20211222_程式弱掃_交付遠銀\SFTP_ACC\SFTP_ACC_VS2019\SFTP_ACC.cpp(178,18): warning C4477: 'sscanf_s' : 格式字串 '%s' 需要 'unsigned int' 類型的引數，但 variadic 引數 2 的類型為 'size_t'
+D:\遠銀升級案\20211222_程式弱掃_交付遠銀\SFTP_ACC\SFTP_ACC_VS2019\SFTP_ACC.cpp(178,18): message : 此引數可用為緩衝區大小
+D:\遠銀升級案\20211222_程式弱掃_交付遠銀\SFTP_ACC\SFTP_ACC_VS2019\SFTP_ACC.cpp(185,18): warning C4477: 'sscanf_s' : 格式字串 '%s' 需要 'unsigned int' 類型的引數，但 variadic 引數 2 的類型為 'size_t'
+D:\遠銀升級案\20211222_程式弱掃_交付遠銀\SFTP_ACC\SFTP_ACC_VS2019\SFTP_ACC.cpp(185,18): message : 此引數可用為緩衝區大小
+D:\遠銀升級案\20211222_程式弱掃_交付遠銀\SFTP_ACC\SFTP_ACC_VS2019\SFTP_ACC.cpp(194,18): warning C4477: 'sscanf_s' : 格式字串 '%s' 需要 'unsigned int' 類型的引數，但 variadic 引數 2 的類型為 'size_t'
+D:\遠銀升級案\20211222_程式弱掃_交付遠銀\SFTP_ACC\SFTP_ACC_VS2019\SFTP_ACC.cpp(194,18): message : 此引數可用為緩衝區大小
+D:\遠銀升級案\20211222_程式弱掃_交付遠銀\SFTP_ACC\SFTP_ACC_VS2019\SFTP_ACC.cpp(201,18): warning C4477: 'sscanf_s' : 格式字串 '%s' 需要 'unsigned int' 類型的引數，但 variadic 引數 2 的類型為 'size_t'
+D:\遠銀升級案\20211222_程式弱掃_交付遠銀\SFTP_ACC\SFTP_ACC_VS2019\SFTP_ACC.cpp(201,18): message : 此引數可用為緩衝區大小
+D:\遠銀升級案\20211222_程式弱掃_交付遠銀\SFTP_ACC\SFTP_ACC_VS2019\SFTP_ACC.cpp(208,18): warning C4477: 'sscanf_s' : 格式字串 '%s' 需要 'unsigned int' 類型的引數，但 variadic 引數 2 的類型為 'size_t'
+D:\遠銀升級案\20211222_程式弱掃_交付遠銀\SFTP_ACC\SFTP_ACC_VS2019\SFTP_ACC.cpp(208,18): message : 此引數可用為緩衝區大小
+SFTP_ACC.obj : error LNK2001: 無法解析的外部符號 "int __cdecl des_decrypt(unsigned char *,int,unsigned char *)" (?des_decrypt@@YAHPEAEH0@Z)
+D:\遠銀升級案\20211222_程式弱掃_交付遠銀\SFTP_ACC\SFTP_ACC_VS2019\x64\Release\SFTP_ACC.exe : fatal error LNK1120: 1 個無法解析的外部符號
