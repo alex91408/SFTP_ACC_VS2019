@@ -1,2 +1,0 @@
-sqlcmd -S VIC4832-440\SQLEXPRESS -U wmsrecuser -P wmsrecuserfeib -h -s , -i Get_Acc.SQL -o Get_Acc_log.txtsqlcmd -S VIC4832-440\SQLEXPRESS -U wmsrecuser -P wmsrecuserfeib -i Get_Acc.SQL -W -s , -h -1 -o Get_Acc_log.txt
-sqlcmd -S VIC4832-440\SQLEXPRESS -U wmsrecuser -P wmsrecuserfeib -q "set heading off; go; select SAL01, SAL02 from SAL"
